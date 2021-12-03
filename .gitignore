@@ -1,3 +1,7 @@
+# project files 
+PROJECT-FILES
+.DS_Store
+
 # Logs
 logs
 *.log
