@@ -32,6 +32,13 @@ h1 {
   transform: translateX(-50%);
 }
 
+.above-keyboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .row {
   display: flex;
   justify-content: space-between;
